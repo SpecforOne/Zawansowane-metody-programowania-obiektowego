@@ -1,0 +1,25 @@
+0: udalo ci sie zgadnac za: 3 razem. Szukana liczba to: 2
+liczba gier: 1
+srednia ilosc prob do odgadniecia wylosowanej liczby: 3
+
+0: udalo ci sie zgadnac za: 3 razem. Szukana liczba to: 7
+liczba gier: 1
+srednia ilosc prob do odgadniecia wylosowanej liczby: 3
+
+1: udalo ci sie zgadnac za: 5 razem. Szukana liczba to: 11
+liczba gier: 2
+srednia ilosc prob do odgadniecia wylosowanej liczby: 4
+
+0: udalo ci sie zgadnac za: 4 razem. Szukana liczba to: 20
+0: udalo ci sie zgadnac za: 11 razem. Szukana liczba to: 11
+0: udalo ci sie zgadnac za: 5 razem. Szukana liczba to: 11
+liczba gier: 1
+srednia ilosc prob do odgadniecia wylosowanej liczby: 5
+
+1: udalo ci sie zgadnac za: 4 razem. Szukana liczba to: 17
+liczba gier: 2
+srednia ilosc prob do odgadniecia wylosowanej liczby: 4
+
+liczba gier: 2
+srednia ilosc prob do odgadniecia wylosowanej liczby: 4
+
